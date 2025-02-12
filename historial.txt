@@ -1,0 +1,41 @@
+commit 4a2a22e9afc9386de6995e257a346484eedfa2f7
+Author: rubencelix <ruben.celix@rai.usc.es>
+Date:   Wed Feb 12 09:00:20 2025 +0100
+
+    version4
+
+commit 7f099790760136fda60d9f13d81d80746cfd55fc
+Author: rubencelix <ruben.celix@rai.usc.es>
+Date:   Wed Feb 12 08:54:33 2025 +0100
+
+    version4
+
+commit c8be3265ea48e940e285e0363c4b61d7a67aa3bb
+Author: rubencelix <ruben.celix@rai.usc.es>
+Date:   Wed Feb 12 08:35:36 2025 +0100
+
+    version3
+
+commit bb8ded3ee36c9e78281336949769ff2478545a32
+Author: rubencelix <ruben.celix@rai.usc.es>
+Date:   Wed Feb 12 08:33:10 2025 +0100
+
+    version3
+
+commit ef667d505afc0b15ec3c19423861b2db4d6e86e2
+Author: rubencelix <ruben.celix@rai.usc.es>
+Date:   Thu Feb 6 12:50:33 2025 +0100
+
+    version3
+
+commit e3eb1fb4306c1af2854ff7af622a9ecf86fe6541
+Author: rubencelix <ruben.celix@rai.usc.es>
+Date:   Thu Feb 6 12:46:55 2025 +0100
+
+    nano_pruebas.txt
+
+commit 61e6cdf430960c0d6e36cc9e696a7791ed849fff
+Author: rubencelix <ruben.celix@rai.usc.es>
+Date:   Thu Feb 6 12:43:14 2025 +0100
+
+    version1
